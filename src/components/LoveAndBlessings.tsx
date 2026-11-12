@@ -53,7 +53,7 @@ const LoveAndBlessings: React.FC = () => {
           {/* Couple Names */}
           <div className="mb-4">
             <h3 className="font-display text-3xl sm:text-5xl lg:text-6xl text-gold-gradient font-normal tracking-wide">
-              JIBY & PRATIKSHA
+              SUJITH & PRATIKSHA
             </h3>
           </div>
 

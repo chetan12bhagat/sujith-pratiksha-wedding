@@ -238,7 +238,7 @@ const CoupleIntroduction = () => {
             variants={fadeUp}
             className="font-display text-4xl sm:text-6xl text-gold-gradient leading-tight"
           >
-            Jiby &amp; Pratiksha
+            Sujith &amp; Pratiksha
           </motion.h2>
 
           <motion.div variants={fadeUp} className="mt-4">
@@ -250,7 +250,7 @@ const CoupleIntroduction = () => {
         <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-0 mb-16 sm:mb-20">
           {/* Groom */}
           <div className="md:mr-[-30px] md:z-10">
-            <PhotoPlaceholder name="JIBY" delay={0.2} inView={inView} />
+            <PhotoPlaceholder name="SUJITH" delay={0.2} inView={inView} />
           </div>
 
           {/* Decorative element between (hidden on mobile, shown md+) */}

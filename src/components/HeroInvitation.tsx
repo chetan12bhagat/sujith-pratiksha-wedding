@@ -375,7 +375,7 @@ const HeroInvitation: React.FC = () => {
           <OrnamentalDivider className="w-36 sm:w-48 h-auto" />
         </motion.div>
 
-        {/* JIBY */}
+        {/* SUJITH */}
         <motion.h1
           variants={itemVariants}
           className="font-display text-gold-gradient leading-none mb-2 sm:mb-3"
@@ -383,7 +383,7 @@ const HeroInvitation: React.FC = () => {
             fontSize: 'clamp(3rem, 8vw, 6rem)',
           }}
         >
-          Jiby
+          Sujith
         </motion.h1>
 
         {/* Decorative star */}

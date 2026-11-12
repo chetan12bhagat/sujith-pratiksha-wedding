@@ -237,7 +237,7 @@ const RsvpSection: React.FC = () => {
                     rows={3}
                     value={formData.message}
                     onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-                    placeholder="Leave a sweet note or blessing for Jiby & Pratiksha..."
+                    placeholder="Leave a sweet note or blessing for Sujith & Pratiksha..."
                     className="w-full bg-ivory-50 border border-gold/40 rounded-lg px-4 py-3 text-navy-900 font-serif text-base placeholder-navy-400 focus:outline-none focus:border-gold-600 focus:ring-1 focus:ring-gold-600 transition-all resize-none"
                   />
                 </div>
@@ -298,7 +298,7 @@ const RsvpSection: React.FC = () => {
 
                 <p className="font-serif text-lg text-navy-800 italic mb-6 max-w-md mx-auto">
                   {formData.attendance === 'attending'
-                    ? `We are delighted that you and your party of ${formData.guestCount} will join us to celebrate Jiby & Pratiksha's sacred union.`
+                    ? `We are delighted that you and your party of ${formData.guestCount} will join us to celebrate Sujith & Pratiksha's sacred union.`
                     : 'We will miss your presence on our special day, but we are deeply grateful for your warm thoughts and blessings.'}
                 </p>
 

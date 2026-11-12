@@ -3,7 +3,7 @@ export const WEDDING_DATE = new Date('2026-12-21T11:00:00+05:30');
 
 export const WEDDING_INFO = {
   groom: {
-    name: 'JIBY',
+    name: 'SUJITH',
     fatherName: 'Samuel John',
     motherName: 'Alice Samuel',
   },
@@ -47,7 +47,7 @@ export function getTimeRemaining() {
 
 export function shareOnWhatsApp() {
   const text = encodeURIComponent(
-    `You are cordially invited to the wedding celebration of Jiby & Pratiksha!\n\n📅 21 December 2026 | 11:00 AM\n📍 Ashirwad Celebration, Wardha, Maharashtra\n\nWe would love to celebrate this special day with you.\n\nWith Love,\nJiby & Pratiksha`
+    `You are cordially invited to the wedding celebration of Sujith & Pratiksha!\n\n📅 21 December 2026 | 11:00 AM\n📍 Ashirwad Celebration, Wardha, Maharashtra\n\nWe would love to celebrate this special day with you.\n\nWith Love,\nSujith & Pratiksha`
   );
   window.open(`https://wa.me/?text=${text}`, '_blank');
 }

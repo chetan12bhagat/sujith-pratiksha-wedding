@@ -9,9 +9,9 @@ const FinalMessage: React.FC = () => {
 
   const handleAddToCalendar = () => {
     // Google Calendar Event Link
-    const title = encodeURIComponent('Jiby & Pratiksha Wedding Ceremony');
+    const title = encodeURIComponent('Sujith & Pratiksha Wedding Ceremony');
     const details = encodeURIComponent(
-      'Wedding Ceremony of Jiby & Pratiksha at Ashirwad Celebration, Wardha, Maharashtra, India.'
+      'Wedding Ceremony of Sujith & Pratiksha at Ashirwad Celebration, Wardha, Maharashtra, India.'
     );
     const location = encodeURIComponent('Ashirwad Celebration, Wardha, Maharashtra, India');
     // 20261221T110000+0530 to 20261221T160000+0530 in UTC:
@@ -64,7 +64,7 @@ const FinalMessage: React.FC = () => {
           </p>
 
           <h3 className="font-display text-4xl sm:text-6xl lg:text-7xl text-gold-gradient font-normal tracking-wider mb-6">
-            JIBY & PRATIKSHA
+            SUJITH & PRATIKSHA
           </h3>
 
           <div className="inline-block px-6 py-2.5 rounded-full border border-gold/30 bg-navy-900/60 mb-6">
@@ -128,7 +128,7 @@ const FinalMessage: React.FC = () => {
           </div>
 
           <p className="font-serif text-xs text-ivory/40 tracking-wider">
-            Jiby & Pratiksha Wedding Celebration • Wardha, Maharashtra, India • 2026
+            Sujith & Pratiksha Wedding Celebration • Wardha, Maharashtra, India • 2026
           </p>
         </motion.div>
       </div>

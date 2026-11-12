@@ -21,7 +21,7 @@ const galleryItems: GalleryItem[] = [
     aspect: 'aspect-[3/4]',
     bgGradient: 'from-[#0f1b3d] via-[#1a2d5a] to-[#0a1128]',
     iconType: 'portrait',
-    caption: 'Jiby & Pratiksha in traditional wedding attire',
+    caption: 'Sujith & Pratiksha in traditional wedding attire',
   },
   {
     id: 2,

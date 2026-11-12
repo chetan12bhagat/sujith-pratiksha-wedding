@@ -53,10 +53,10 @@ const Navigation: React.FC<NavigationProps> = () => {
             className="flex items-center gap-2 group"
           >
             <div className="w-8 h-8 rounded-full border border-gold/50 flex items-center justify-center bg-navy-900 group-hover:border-gold transition-colors">
-              <span className="font-display text-xs text-gold font-bold">J&P</span>
+              <span className="font-display text-xs text-gold font-bold">S&P</span>
             </div>
             <span className="font-display text-sm tracking-wider text-ivory hidden sm:inline group-hover:text-gold transition-colors">
-              Jiby & Pratiksha
+              Sujith & Pratiksha
             </span>
           </a>
 

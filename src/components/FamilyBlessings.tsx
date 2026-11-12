@@ -340,7 +340,7 @@ const FamilyBlessings = () => {
               label="Groom's Family"
               parent1="Samuel John"
               parent2="Alice Samuel"
-              childName="JIBY"
+              childName="SUJITH"
               description="Request the presence and blessings of friends and family on the auspicious occasion of their son's wedding."
               direction="left"
               inView={sectionInView}
