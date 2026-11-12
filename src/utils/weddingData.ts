@@ -47,7 +47,7 @@ export function getTimeRemaining() {
 
 export function shareOnWhatsApp() {
   const text = encodeURIComponent(
-    `You are cordially invited to the wedding celebration of Sujith & Pratiksha!\n\n📅 21 December 2026 | 11:00 AM\n📍 Ashirwad Celebration, Wardha, Maharashtra\n\n🔗 https://sujith-pratiksha-wedding.vercel.app/\n\nWe would love to celebrate this special day with you.\n\nWith Love,\nSujith & Pratiksha`
+    `You are cordially invited to the wedding celebration of Sujith & Pratiksha!\n\n📅 21 December 2026 | 11:00 AM\n📍 Ashirwad Celebration, Wardha, Maharashtra\n\n🔗 https://sujith-pratiksha-wedding.vercel.app/?v=sp\n\nWe would love to celebrate this special day with you.\n\nWith Love,\nSujith & Pratiksha`
   );
   window.open(`https://wa.me/?text=${text}`, '_blank');
 }
